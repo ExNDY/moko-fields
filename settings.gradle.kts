@@ -13,7 +13,9 @@ dependencyResolutionManagement {
 
 include(":fields-core")
 include(":fields-flow")
+include(":fields-flow-material")
 include(":fields-livedata")
+include(":fields-livedata-material")
 include(":sample:android-app")
 include(":sample:mpp-library")
 include(":sample-declarative-ui:shared")
